@@ -5,7 +5,7 @@
 - ⚛️ My main stack: **React.js | Node.js | Express | MongoDB**
 - 🎨 I love designing elegant user interfaces and bringing them to life with **HTML, CSS, and JavaScript**.
 - 💬 Ask me about **React, UI Design, CSS animations**, and **accessibility**.
-- 🤝 I’m open to collaborate on **MERN stack apps**, **portfolio websites**, and **design-to-code projects**.
+- 🤝 I’m open to collaborate on **MERN stack apps**, and **design-to-code projects**.
 - 📫 Reach me via  [Email](mailto:erfanghesmati53@gmail.com)
 - 😄 Pronouns: he/him
 
